@@ -1,0 +1,32 @@
+body {
+    background-image: url(./fondo.jpg);
+    position: absolute;
+    width: 2000px;
+    height: 1023px;
+    left: 0px;
+    top: 1px;
+}
+
+h1 {
+    position: absolute;
+    width: 162px;
+    height: 80px;
+    left: 1100px;
+    top: 0px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #DDA448;
+}
+
+img {
+    position: absolute;
+    width: 1196px;
+    height: 373px;
+    left: 122px;
+    top: 400px;
+}
